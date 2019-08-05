@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    background: linear-gradient(skyblue, purple);
+    color: whitesmoke;
+}
+
+#list > div {
+  display: flex;
+}
+
+ul {
+    width: 50%;
+}
+
+h1{
+    margin: 1rem;
+    color: royalblue;
+}
+
+* {
+    
+}
