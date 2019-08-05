@@ -6,8 +6,7 @@ class App extends React.Component {
     this.state = {
       error: null,
       isLoaded: false,
-      items: [],
-      count: 0
+      items: []
     };
   }
 
